@@ -1,0 +1,44 @@
+--------------Các phím tắt hỗ trợ code HTML---------------
+1. 			html+tab
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
+
+2.			Như khi sử dụng CSS:div.class
+<div class="class"></div>
+
+3.			Tạo thẻ cha-con: header>nav>ul>li
+<header>
+    <nav>
+        <ul>
+            <li></li>
+        </ul>
+    </nav>
+</header>
+
+4.			Thẻ anh-em: header+article+foooter
+<hearder></hearder>
+<article></article>
+<foooter></foooter>
+ 
+5.          Tạo html đơn giản:  html:5 hoặc "!"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+6.          
